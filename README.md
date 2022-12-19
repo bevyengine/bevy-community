@@ -16,17 +16,24 @@ name = "Me, Myself and I"
 # Optional
 profile-picture = "Picture.jpeg"
 
+# Short presentation of yourself
+# Optional
+bio = ""
+
 # Link to your sponsoring page, GitHub Sponsor, Patreon, Buy Me a Coffee, ...
 # Optional
 sponsor = ""
 
 # Social links
-# They are all optional, and you can have only 4
+# They are all optional
 
 ## Will link to https://github.com/<username>
 github = "username"
 
 discord = "DiscordUsername#1234"
+## This allows direct linking to your profile for people with a shared server
+## https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-
+discord-userid = ""
 
 ## Will link to https://<instance.com>/@<username>
 mastodon = "@username@instance.com"
