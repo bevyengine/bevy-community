@@ -5,3 +5,4 @@ discord = "cart#2833"
 mastodon = "@cart@mastodon.social"
 sponsor = "https://github.com/sponsors/cart"
 profile-picture = "GitHub"
+order = 0
