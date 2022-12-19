@@ -11,7 +11,8 @@ jobs:
       - uses: actions/checkout@master
 
       - name: "Install Community Validator"
-        run: cargo install --git https://github.com/bevyengine/bevy-website/ generate-community --bin validate
+        # run: cargo install --git https://github.com/bevyengine/bevy-website/ generate-community --bin validate
+        run: cargo install --git https://github.com/mockersf/bevy-website/ --branch community generate-community --bin validate
 
       - name: "Check Community"
         run: validate ./
