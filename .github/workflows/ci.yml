@@ -1,0 +1,17 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+
+      - name: "Install Community Validator"
+        run: cargo install --git https://github.com/bevyengine/bevy-website/ generate-community --bin validate
+
+      - name: "Check Community"
+        run: validate ./
