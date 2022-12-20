@@ -3,10 +3,10 @@ A listing of Bevy community members which is displayed on the Bevy website
 
 ## How To Add Yourself
 
-Create a new file called `YOUR_GITHUB_USERNAME.toml` using one of the following links:
-* [Bevy Community Member](https://github.com/bevyengine/bevy-community/new/main/Community%20Members): Anyone is allowed to create a community member entry.
-* [Bevy Org Member](https://github.com/bevyengine/bevy-community/new/main/Org%20Members): Use this link only if you are a Bevy Org member.
-* [Bevy Maintainer](https://github.com/bevyengine/bevy-community/new/main/Maintainers): Use this link only if you are a Bevy Maintainer.
+Submit a pull request to this repo with a new file called `YOUR_GITHUB_USERNAME.toml` inside one of the following folders:
+* **Community Members**: Anyone is allowed to create a community member entry.
+* **Org Members**:  Put it in this folder only if you are a Bevy Org member.
+* **Maintainers**: Put it in this folder only if you are a Bevy Maintainer.
 
 Paste the template below into the file and fill out the fields that are relevant to you. Remove any optional fields that are not relevant to you.
 
