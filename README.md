@@ -15,15 +15,16 @@ Paste the template below into the file and fill out the fields that are relevant
 You can use the following fields in a toml file:
 
 ```toml
-# Name you want to appear with.
+# Name you want to appear with. This can be whatever name/alias makes you most comfortable.
 # Mandatory
 name = "Me, Myself and I"
 
 # File name of your profile picture if you uploaded one
 # If you provide a file, be mindful of its size
 # If you also add your github profile, you can use "GitHub" to use your GitHub profile picture
+# This can be any image that follows our code of conduct.
 # Optional
-profile-picture = "Picture.jpeg"
+profile-picture = "GitHub"
 
 # Short presentation of yourself. This has a character limit of 180.
 # Optional
