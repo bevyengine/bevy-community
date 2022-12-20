@@ -26,7 +26,7 @@ name = "Me, Myself and I"
 # Optional
 profile-picture = "GitHub"
 
-# Short presentation of yourself. This has a character limit of 180.
+# Short presentation of yourself. This has a limit of 180 characters.
 # Optional
 bio = ""
 
