@@ -1,0 +1,7 @@
+name = "Kurt Kühnert"
+bio = "German master's student specializing in computer graphics. I am the author and maintainer of the bevy_terrain plugin."
+github = "kurtkuehnert"
+discord = "kurtkuehnert#8689"
+sponsor = "https://github.com/sponsors/kurtkuehnert"
+profile-picture = "GitHub"
+website = "https://github.com/kurtkuehnert/bevy_terrain"
