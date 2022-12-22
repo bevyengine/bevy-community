@@ -5,7 +5,7 @@ A listing of Bevy community members which is displayed on the Bevy website
 
 Submit a pull request to this repo with a new file called `YOUR_GITHUB_USERNAME.toml` inside one of the following folders:
 * **Community Members**: Anyone is allowed to create a community member entry.
-* **Org Members**:  Put it in this folder only if you are a Bevy Org member.
+* **Org Members**: Put it in this folder only if you are a Bevy Org member.
 * **Maintainers**: Put it in this folder only if you are a Bevy Maintainer.
 
 Paste the template below into the file and fill out the fields that are relevant to you. Remove any optional fields that are not relevant to you.
