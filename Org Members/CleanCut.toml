@@ -23,11 +23,11 @@ sponsor = "https://github.com/sponsors/CleanCut"
 # Optional
 github = "CleanCut"
 
-discord = "DiscordUsername#1234"
+discord = "CleanCut#8357"
 # This allows direct linking to your profile for people with a shared server
 # https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-
 # Optional
-discord-userid = ""
+discord-userid = "223208416838025216"
 
 ## Will link to https://<instance.com>/@<username>
 # Optional
