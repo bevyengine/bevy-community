@@ -1,0 +1,23 @@
+project-lead = [
+    "cart"
+]
+
+maintainer = [
+    "cart",
+    "mockersf",
+    "alice-i-cecile",
+    "superdump",
+    "james7132"
+]
+
+sme = [
+    {area="Rendering", id="robtfm"},
+    {area="Rendering", id="superdump"},
+    {area="ECS", id="BoxyUwU"},
+    {area="ECS", id="maniwani"},
+    {area="ECS", id="james7132"},
+    {area="Animation", id="james7132"},
+    {area="Animation", id="mockersf"},
+    {area="Reflection", id="jakobhellermann"},
+    {area="Reflection", id="mrgvsv"}
+]
