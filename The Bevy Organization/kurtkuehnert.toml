@@ -1,5 +1,5 @@
 name = "Kurt Kühnert"
-bio = "German master's student specializing in computer graphics. I am the author and maintainer of the bevy_terrain plugin."
+bio = "German master's student specializing in computer graphics. Author of bevy_terrain. Focused on improving the ergonomics and documentation of Bevy's renderer."
 github = "kurtkuehnert"
 discord = "kurtkuehnert#8689"
 sponsor = "https://github.com/sponsors/kurtkuehnert"
