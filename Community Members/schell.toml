@@ -1,0 +1,30 @@
+# Name you want to appear with. This can be whatever name/alias makes you most comfortable.
+# Mandatory
+name = "Schell Carl Scivally"
+
+# File name of your profile picture if you uploaded one
+# If you provide a file, be mindful of its size
+# If you also add your github profile, you can use "GitHub" to use your GitHub profile picture
+# This can be any image that follows our code of conduct.
+# Optional
+profile-picture = "GitHub"
+
+# Short presentation of yourself. This has a limit of 180 characters.
+# Optional
+bio = "Author of apecs, mogwai and various game and gui libraries. Bevy contributor."
+
+# Link to your sponsoring page, GitHub Sponsor, Patreon, Buy Me a Coffee, ...
+# Optional
+sponsor = "https://github.com/sponsors/schell/"
+
+# Social links
+
+# Will link to https://github.com/<username>
+# Optional
+github = "schell"
+
+discord = "schell#6849"
+
+## Free link, will be displayed as is
+# Optional
+website = "https://zyghost.com"
