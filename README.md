@@ -1,5 +1,5 @@
 # bevy-community
-A listing of Bevy community members which is displayed on the Bevy website
+A listing of Bevy community members which is displayed on the [People page](https://bevyengine.org/community/people/) of the Bevy website.
 
 ## How To Add Yourself
 
