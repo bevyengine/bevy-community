@@ -23,11 +23,11 @@ sponsor = "https://www.patreon.com/PhaestusFox"
 # Optional
 github = "PhaestusFox"
 
-discord = "DiscordUsername#1234"
+discord = "PhaestusFox#8078"
 # This allows direct linking to your profile for people with a shared server
 # https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-
 # Optional
-discord-userid = "PhaestusFox#8078"
+discord-userid = "194783548505456640"
 
 ## Will link to https://<username>.itch.io/
 # Optional
