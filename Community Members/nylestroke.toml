@@ -40,11 +40,3 @@ twitter = "nylestroke"
 ## Will link to https://<username>.itch.io/
 # Optional
 itch-io = "nylestroke"
-
-## Will link to http://store.steampowered.com/developer/<developer_name>
-# Optional
-steam-developer = "nylestroke"
-
-## Free link, will be displayed as is
-# Optional
-website = "https://github.com/nylestroke"
