@@ -11,11 +11,18 @@ maintainer = [
 ]
 
 sme = [
-    {area="Rendering", id="robtfm"},
-    {area="Rendering", id="superdump"},
-    {area="ECS", id="maniwani"},
-    {area="ECS", id="james7132"},
     {area="Animation", id="james7132"},
     {area="Animation", id="mockersf"},
-    {area="Reflection", id="MrGVSV"}
+    {area="Docs", id="alice-i-cecile"},
+    {area="ECS", id="maniwani"},
+    {area="ECS", id="james7132"},
+    {area="ECS", id="JoJoJet"},
+    {area="ECS", id="alice-i-cecile"},
+    {area="Input", id="alice-i-cecile"},
+    {area="Input", id="mockersf"},
+    {area="Mobile", id="mockersf"},
+    {area="Reflection", id="MrGVSV"},
+    {area="Rendering", id="robtfm"},
+    {area="Rendering", id="superdump"},
+    {area="Rendering", id="IceSentry"}
 ]
