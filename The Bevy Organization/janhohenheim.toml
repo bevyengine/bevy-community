@@ -11,7 +11,7 @@ profile-picture = "GitHub"
 
 # Short presentation of yourself. This has a limit of 180 characters.
 # Optional
-bio = "Creator of some cool Bevy tools, author of unpublished games."
+bio = "Responsible for the Rust GameDev newsletter. Creator of a few Bevy tools like the Foxtrot template and Yarn Spinner for Rust. Writes unpublished games."
 
 # Link to your sponsoring page, GitHub Sponsor, Patreon, Buy Me a Coffee, ...
 # Optional
@@ -31,7 +31,7 @@ discord-userid = "227474830470021130"
 
 ## Will link to https://<instance.com>/@<username>
 # Optional
-# mastodon = "@username@instance.com"
+mastodon = "@janhohenheim@mastodon.gamedev.place"
 
 ## Will link to https://twitter.com/<username>
 # Optional
