@@ -24,5 +24,6 @@ sme = [
     {area="Reflection", id="MrGVSV"},
     {area="Rendering", id="robtfm"},
     {area="Rendering", id="superdump"},
-    {area="Rendering", id="icesentry"}
+    {area="Rendering", id="icesentry"},
+    {area="Rendering", id="tychedelia"}
 ]
