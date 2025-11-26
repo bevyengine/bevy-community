@@ -11,11 +11,11 @@ profile-picture = "GitHub"
 
 # Short presentation of yourself. This has a limit of 180 characters.
 # Optional
-bio = "I � pretty lighting. Meant to do UI stuff. Somehow ended up working on 3D rendering. Will get back to that, eventually(?)."
+bio = "Author of Solari, Virtual Geometry, and dlss_wgpu. Meant to do UI stuff. Somehow ended up working on 3D rendering. Will get back to UI eventually(?)"
 
 # Link to your sponsoring page, GitHub Sponsor, Patreon, Buy Me a Coffee, ...
 # Optional
-# sponsor = ""
+sponsor = "https://github.com/sponsors/JMS55"
 
 # Social links
 
@@ -47,4 +47,4 @@ github = "JMS55"
 
 ## Free link, will be displayed as is
 # Optional
-website = "https://flathub.org/apps/details/com.github.jms55.Sandbox"
+website = "https://jms55.github.io"
