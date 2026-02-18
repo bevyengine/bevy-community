@@ -1,29 +1,24 @@
-project-lead = [
-    "cart"
-]
+project-lead = ["cart"]
 
-maintainer = [
-    "cart",
-    "mockersf",
-    "alice-i-cecile",
-    "superdump",
-    "james7132"
-]
+maintainer = ["cart", "mockersf", "alice-i-cecile", "superdump", "james7132"]
 
 sme = [
-    {area="Animation", id="james7132"},
-    {area="Animation", id="mockersf"},
-    {area="Docs", id="alice-i-cecile"},
-    {area="ECS", id="maniwani"},
-    {area="ECS", id="james7132"},
-    {area="ECS", id="JoJoJet"},
-    {area="ECS", id="alice-i-cecile"},
-    {area="Input", id="alice-i-cecile"},
-    {area="Input", id="mockersf"},
-    {area="Mobile", id="mockersf"},
-    {area="Reflection", id="MrGVSV"},
-    {area="Rendering", id="robtfm"},
-    {area="Rendering", id="superdump"},
-    {area="Rendering", id="icesentry"},
-    {area="Rendering", id="tychedelia"}
+    { area = "Assets", id = "andriyDev" },
+    { area = "Animation", id = "james7132" },
+    { area = "Animation", id = "mockersf" },
+    { area = "Docs", id = "alice-i-cecile" },
+    { area = "ECS", id = "maniwani" },
+    { area = "ECS", id = "james7132" },
+    { area = "ECS", id = "JoJoJet" },
+    { area = "ECS", id = "alice-i-cecile" },
+    { area = "Input", id = "alice-i-cecile" },
+    { area = "Input", id = "mockersf" },
+    { area = "Mobile", id = "mockersf" },
+    { area = "Reflection", id = "MrGVSV" },
+    { area = "Rendering", id = "robtfm" },
+    { area = "Rendering", id = "superdump" },
+    { area = "Rendering", id = "icesentry" },
+    { area = "Rendering", id = "tychedelia" },
+    { area = "UI", id = "talin" },
+    { area = "UI", id = "ickshonpe" },
 ]
