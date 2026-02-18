@@ -19,6 +19,6 @@ sme = [
     { area = "Rendering", id = "superdump" },
     { area = "Rendering", id = "icesentry" },
     { area = "Rendering", id = "tychedelia" },
-    { area = "UI", id = "talin" },
+    { area = "UI", id = "viridia" },
     { area = "UI", id = "ickshonpe" },
 ]
