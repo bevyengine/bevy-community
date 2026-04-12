@@ -54,6 +54,10 @@ mastodon = "@username@instance.com"
 # Optional
 twitter = "username"
 
+## Will link to https://bsky.app/profile/<username>
+# Optional
+bluesky = "username"
+
 ## Will link to https://<username>.itch.io/
 # Optional
 itch-io = "username"
