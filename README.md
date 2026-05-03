@@ -58,6 +58,10 @@ twitter = "username"
 # Optional
 bluesky = "username"
 
+## Will link to https://instagram.com/<username>
+# Optional
+instagram = "username"
+
 ## Will link to https://<username>.itch.io/
 # Optional
 itch-io = "username"
