@@ -1,0 +1,27 @@
+# Name you want to appear with. This can be whatever name/alias makes you most comfortable.
+# Mandatory
+name = "袁晗 (Yuan Han)"
+
+# File name of your profile picture if you uploaded one
+# If you provide a file, be mindful of its size
+# If you also add your github profile, you can use "GitHub" to use your GitHub profile picture
+# This can be any image that follows our code of conduct.
+# Optional
+profile-picture = "GitHub"
+
+# Short presentation of yourself. This has a limit of 180 characters.
+# Optional
+bio = "Rust developer interested in Bevy, rendering, and simulation. Also experienced with Python."
+
+# Social links
+
+# Will link to https://github.com/<username>
+# Optional
+github = "yuanh1128"
+
+discord = "yuanh1128"
+# This allows direct linking to your profile for people with a shared server
+# https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-
+# Optional
+discord-userid = "1550041742227804160"
+
